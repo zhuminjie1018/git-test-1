@@ -6,4 +6,9 @@ class Category:
 
      def add_article(self, title):
          self.article.append(title)
-         print(f"文章《{title}》已添加“)
+         print(f"文章《{title}》已添加")
+
+     def add_in_master():
+         print()
+
+
